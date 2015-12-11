@@ -1,0 +1,10 @@
+; Daggerfall.ahk
+; Erick Veil
+; 2015-12-11
+;
+; Script assumes that you have successfully installed Daggerfall according to 
+; the installation manual that was provided with the official Bethseda download,
+; in the directories indicated in those instructions.
+;
+; If you use the ahk to exe program, you can make yourself a cool desktop icon 
+; to click and run the game.
